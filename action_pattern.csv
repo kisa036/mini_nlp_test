@@ -1,0 +1,7 @@
+action,pattern
+volume_up,볼륨 올려
+volume_down,볼륨 내려
+iot_device_power_on,iot_device 켜줘
+iot_device_power_off,iot_device 꺼줘
+search_weather,dt_day 날씨 알려줘
+search_contents,contents_title 검색해줘
